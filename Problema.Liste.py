@@ -1,4 +1,4 @@
-a = list(map(int,input('Introduceti numerele listei (prin spatiu) : ').split()))
+a = list(map(int,input('Introduceti numerele listei (prin spatiu): ').split()))
 print('lista 1 =', a)
 b=sorted(a)
 print('lista 2 =', b)
